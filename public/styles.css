@@ -1,0 +1,14 @@
+.thid-line-container, 
+.container-info-thead,
+.fourth-line-container,
+.container-info-tbody, .all-charts {
+    display: flex; 
+    justify-content: space-between;
+}
+
+.all-charts {
+    
+    width: 200px;
+    height: 200px;  
+}
+
